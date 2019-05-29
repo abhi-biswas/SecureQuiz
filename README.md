@@ -25,7 +25,7 @@
 
 <hr>
 
-**For more details**
+**For more details:**
 
 **Abhijeet Biswas**
 
