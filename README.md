@@ -22,7 +22,6 @@
 11. The questions can be of different types(Multiple Choice Correct MCQs, T/F).
 12. Passwords are stored in MD5 hashes for security.
 
-fhxfjgjh
 <hr>
 
 **For more details:**
